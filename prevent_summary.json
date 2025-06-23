@@ -1,0 +1,11 @@
+{
+  "model_count": 2,
+  "models": [
+    "base_10yr",
+    "base_30yr"
+  ],
+  "variable_count": {
+    "base_10yr": 23,
+    "base_30yr": 24
+  }
+}
